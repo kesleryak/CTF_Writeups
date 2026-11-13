@@ -24,6 +24,8 @@ Hints:
 The flag is in the format PICOCTF{}
 ```
 
+Challenge Link: [Challenge](https://learn.cylabacademy.org/library/68)
+
 ## Solution
 
 ### Numbers to Letters

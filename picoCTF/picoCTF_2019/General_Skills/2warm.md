@@ -22,6 +22,8 @@ Hints:
 1. Submit your answer in our competition's flag format. For example, if your answer was '11111', you would submit 'academy{11111}' as the flag.
 ```
 
+Challenge Link: [Challenge](https://learn.cylabacademy.org/library/86)
+
 ## Solution
 
 ### Background
@@ -61,7 +63,7 @@ Therefore, 42 in base-10 is 101010 in base-2.
 ### Flag
 
 ```text
-picoCTF{101010}
+picoCTF{<REDACTED>}
 ```
 
 ## References
